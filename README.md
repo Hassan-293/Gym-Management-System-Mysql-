@@ -4,8 +4,8 @@ Gym Management System is a Database Project implemented using mysql and php.  We
 
 Requirements and Installations
 
-XAMPP Server 
-PHP Myadmin 
-VSCODE 
+1. XAMPP Server 
+2. PHP Myadmin 
+3. VSCODE 
 
 Run the project in hdocs folder of XAMPP  server. 
